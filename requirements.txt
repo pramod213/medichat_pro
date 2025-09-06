@@ -2,21 +2,18 @@
 streamlit
 requests
 python-dotenv
+pypdf
 
 # LangChain core + integrations
 langchain
 langchain-community
 langchain-google-genai
 
-# Vectorstore (FAISS)
+# Vectorstore
 faiss-cpu
 
-# NLP models
+# NLP / embeddings
 sentence-transformers
-
-# Data handling
-pydantic
 numpy
-
-# Tokenization (useful for LLMs)
+pydantic
 tiktoken
