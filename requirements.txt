@@ -1,9 +1,22 @@
+# Core
 streamlit
 requests
-pypdf
-faiss-cpu
-langchain
-langchain_community
-sentence-transformers
-langchain-google-genai
 python-dotenv
+
+# LangChain core + integrations
+langchain
+langchain-community
+langchain-google-genai
+
+# Vectorstore (FAISS)
+faiss-cpu
+
+# NLP models
+sentence-transformers
+
+# Data handling
+pydantic
+numpy
+
+# Tokenization (useful for LLMs)
+tiktoken
