@@ -1,6 +1,6 @@
-from langchain_community.vectorstores import FAISS # pyright: ignore[reportMissingImports]
-from langchain_google_genai import GoogleGenerativeAIEmbeddings # pyright: ignore[reportMissingImports]
-from dotenv import load_dotenv # pyright: ignore[reportMissingImports]
+from langchain_community.vectorstores import FAISS 
+from langchain_google_genai import GoogleGenerativeAIEmbeddings 
+from dotenv import load_dotenv 
 from typing import List
 import os
 
