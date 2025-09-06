@@ -1,0 +1,9 @@
+streamlit
+requests
+pypdf
+faiss-cpu
+langchain
+langchain_community
+sentence-transformers
+langchain-google-genai
+python-dotenv
