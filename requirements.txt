@@ -7,7 +7,7 @@ pypdf
 # LangChain core + integrations
 langchain
 langchain-community
-langchain-google-genai
+langchain-google-genai 
 
 # Vectorstore
 faiss-cpu
