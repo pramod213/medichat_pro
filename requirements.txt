@@ -7,13 +7,10 @@ pypdf
 # LangChain core + integrations
 langchain
 langchain-community
-langchain-google-genai ==2.1.10
-GoogleGenerativeAIEmbeddings
+langchain-google-genai 
 
 # Vectorstore
 faiss-cpu
-create_faiss_index
-retrieve_relevant_docs
 
 # NLP / embeddings
 sentence-transformers
