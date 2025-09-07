@@ -7,7 +7,7 @@ pypdf
 # LangChain core + integrations
 langchain
 langchain-community
-langchain-google-genai
+langchain-google-genai ==2.1.10
 GoogleGenerativeAIEmbeddings
 
 # Vectorstore
