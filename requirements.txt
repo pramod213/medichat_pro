@@ -12,7 +12,8 @@ GoogleGenerativeAIEmbeddings
 
 # Vectorstore
 faiss-cpu
-from app.vectorstore_utils import create_faiss_index, retrieve_relevant_docs
+create_faiss_index
+retrieve_relevant_docs
 
 # NLP / embeddings
 sentence-transformers
